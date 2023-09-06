@@ -579,7 +579,7 @@ footer {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 9px 25px;
+    padding: 12px 25px;
     background: #A3F3BE;
     color: var(--main-color);
     font-family: Poppins-Medium;
