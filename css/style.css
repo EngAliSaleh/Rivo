@@ -119,10 +119,14 @@ header .menu {
 }
 
 /* Hero Style */
+#hero {
+    background-color: var(--hover-background-color);
+}
+
 .hero {
     display: flex;
     justify-content: space-between;
-    margin-top: 152px;
+    padding: 138px 0 168px 0;
 }
 
 .hero .hero-content {
@@ -652,6 +656,7 @@ footer {
     /* Hero Style */
     .hero {
         flex-direction: column;
+        padding: 40px 0 80px 0;
     }
 
     .hero .hero-content {
